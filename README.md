@@ -15,3 +15,5 @@ How to include a challenge, decision and outcome in a chart
 How to use the color and the geometry in order to keep your attention!
 
 ## Portfolio
+
+### Final project
