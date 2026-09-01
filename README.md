@@ -1,6 +1,6 @@
 # Nando's portfolio 
 
-## Me
+## About me
 Fernando Rocha Rosario :) 
 
 frocharo@andrew.cmu.edu 
