@@ -17,4 +17,7 @@ How to use the color, the geometry and the angle in order to keep your attention
 
 ## Portfolio
 ### Data visualization critique (AI Critique)
+### Tableu
+Interactive Dashboard
+https://frocharo.github.io/moshi-dataviz/
 
