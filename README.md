@@ -19,7 +19,7 @@ How to use the color, the geometry and the angle in order to keep your attention
 ### Data visualization critique (AI Critique)
 ### Working with Tableau: Visualizing Government Debt
 #### 1) 
-<img width="1491" height="826" alt="image" src="https://github.com/user-attachments/assets/122ea162-c790-4de2-987a-62cdbb861cad" />
+[<img width="1491" height="826" alt="image" src="https://github.com/user-attachments/assets/122ea162-c790-4de2-987a-62cdbb861cad" />](https://public.tableau.com/views/TableuA1/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Challenge Gapminder
 
