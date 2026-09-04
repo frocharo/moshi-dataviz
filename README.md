@@ -19,5 +19,5 @@ How to use the color, the geometry and the angle in order to keep your attention
 ### Data visualization critique (AI Critique)
 ### Challenge Gapminder
 
-[Click] (https://public.tableau.com/views/TableuGapminder/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+([Click] (https://public.tableau.com/views/TableuGapminder/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
