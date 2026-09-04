@@ -20,7 +20,9 @@ How to use the color, the geometry and the angle in order to keep your attention
 ### Working with Tableau: Visualizing Government Debt
 #### 1) 
 [<img width="1491" height="826" alt="image" src="https://github.com/user-attachments/assets/122ea162-c790-4de2-987a-62cdbb861cad" />](https://public.tableau.com/views/TableuA1/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+#### 2)
+[<img width="666" height="707" alt="image" src="https://github.com/user-attachments/assets/c4e4a72b-dacf-461e-a2bf-65fb6a80eed0" />
+](https://public.tableau.com/shared/TQ5XJ7K4J?:display_count=n&:origin=viz_share_link)
 ### Challenge Gapminder
 
 [Click](https://public.tableau.com/views/TableuGapminder/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
