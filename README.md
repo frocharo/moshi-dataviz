@@ -42,4 +42,5 @@ How to use the color, the geometry and the angle in order to keep your attention
 [Click](https://public.tableau.com/views/TableuGapminder/Sheet1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Data viz Redesign
+
 <iframe title="The people love bar, area and line charts" aria-label="Table" id="datawrapper-chart-D7BJY" src="https://datawrapper.dwcdn.net/D7BJY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="703" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
