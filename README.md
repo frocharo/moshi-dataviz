@@ -24,8 +24,6 @@ How to use the color, the geometry and the angle in order to keep your attention
 
 <div class='tableauPlaceholder' id='viz1788900700638' style='position: relative'><noscript><a href='#'><img alt='Trust in news media ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD0908&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWD0908&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD0908&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /></object></div>                
 
-[Click here](https://public.tableau.com/views/MOM2026W29-USDataCenterLocations/MOM2026W29-USDataCenterLocations?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize the whole dataviz
-
 ## Assignments
 
 ### OECD
@@ -44,7 +42,7 @@ How to use the color, the geometry and the angle in order to keep your attention
 **Original dataviz**
 
 <div class='tableauPlaceholder' id='viz1789647425055' style='position: relative'><noscript><a href='#'><img alt='#MOM 2026 W29 - US Data Center Locations ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /></object></div>               
-
+[Click here](https://public.tableau.com/views/MOM2026W29-USDataCenterLocations/MOM2026W29-USDataCenterLocations?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize the whole dataviz
 
 I chose this visualizations because I saw a lot information on it, so I was impressed because the flux between the US map and the bar chart. Additionally, I'm interested on data centers so I think that with the location, status and electricity consumption I could make a dataviz for some environmental message. Also I chose this map because I reviewed its dataset and it contains a lot of variables and observations, then I believed that I can get a great final product.
 
