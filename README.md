@@ -48,6 +48,7 @@ How to use the color, the geometry and the angle in order to keep your attention
 I chose this visualizations because I saw a lot information on it, so I was impressed because the flux between the US map and the bar chart. Additionally, I'm interested on data centers so I think that with the location, status and electricity consumption I could make a dataviz for some environmental message. Also I chose this map because I reviewed its dataset and it contains a lot of variables and observations, then I believed that I can get a great final product.
 
 *Prep*
+
 I started analyzing the original map. I said on Forms that it didn't used very well the spatial features of each state. Then I looked how to take advantage of the information per state but without over visualizing information like in the original one. Due this is a map and not a chart, I needed to learn more about how to handle it on Tableu, so I took a course on DataCamp provided by my home university. My preparation, as you can see, was not like in the book: find a quite space, be focused and gather your data. First I needed to understand the pros & cons from the original dataviz, after I got training for Tableu and finally I started thinking in how to sketch a first draft. 
 
 I decided to speak to an audience concerned by the increasing amount of data centers in US. I would like to trigger a feeling of urgency and risk, so my dataviz is data-driven but also declarative. I wanted to keep in mind: "Data centers are everywhere and they are wasting our resources". 
