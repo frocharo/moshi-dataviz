@@ -54,15 +54,22 @@ I started analyzing the original map. I said on Forms that it didn't used very w
 I decided to speak to an audience concerned by the increasing amount of data centers in US. I would like to trigger a feeling of urgency and risk, so my dataviz is data-driven but also declarative. I wanted to keep in mind: "Data centers are everywhere, every time they are more and they are wasting our resources". 
 
 *Sketch*
+
 My first draft was focused on electricity consumption, however the dataset is not accurate in this matter. More than 50% of the observations have not information about the electricity consumption, and the others have different data in different measures. So I ruled out this approach because I'm not quite sure about the completeness and truthfulness of the information.
 
 <img width="1319" height="727" alt="image" src="https://github.com/user-attachments/assets/00e2589b-a51b-4cfe-8294-379d0140a772" />
+
+The second draft was focused on the amount of data centers. I looked a represented like a terrible sun over US, but I would miss the spatial features. Also may be is not very intuitive. The I discarded it too. 
+
+<img width="1314" height="895" alt="image" src="https://github.com/user-attachments/assets/595f7403-3e0a-4458-b592-6e36e4cc278f" />
 
 
 
 
 Usefulness, perceptibility, completeness, engagement, intuitiveness, truthfulness, aesthetics, 
+
 *Test*
+
 *Prototype*
 
 
