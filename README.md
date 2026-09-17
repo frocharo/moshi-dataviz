@@ -51,9 +51,15 @@ I chose this visualizations because I saw a lot information on it, so I was impr
 
 I started analyzing the original map. I said on Forms that it didn't used very well the spatial features of each state. Then I looked how to take advantage of the information per state but without over visualizing information like in the original one. Due this is a map and not a chart, I needed to learn more about how to handle it on Tableu, so I took a course on DataCamp provided by my home university. My preparation, as you can see, was not like in the book: find a quite space, be focused and gather your data. First I needed to understand the pros & cons from the original dataviz, after I got training for Tableu and finally I started thinking in how to sketch a first draft. 
 
-I decided to speak to an audience concerned by the increasing amount of data centers in US. I would like to trigger a feeling of urgency and risk, so my dataviz is data-driven but also declarative. I wanted to keep in mind: "Data centers are everywhere and they are wasting our resources". 
+I decided to speak to an audience concerned by the increasing amount of data centers in US. I would like to trigger a feeling of urgency and risk, so my dataviz is data-driven but also declarative. I wanted to keep in mind: "Data centers are everywhere, every time they are more and they are wasting our resources". 
 
 *Sketch*
+My first draft was focused on electricity consumption, however the dataset is not accurate in this matter. More than 50% of the observations have not information about the electricity consumption, and the others have different data in different measures. So I ruled out this approach because I'm not quite sure about the completeness and truthfulness of the information.
+
+<img width="1319" height="727" alt="image" src="https://github.com/user-attachments/assets/00e2589b-a51b-4cfe-8294-379d0140a772" />
+
+
+
 
 Usefulness, perceptibility, completeness, engagement, intuitiveness, truthfulness, aesthetics, 
 *Test*
