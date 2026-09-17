@@ -43,7 +43,7 @@ How to use the color, the geometry and the angle in order to keep your attention
 
 <div class='tableauPlaceholder' id='viz1789647425055' style='position: relative'><noscript><a href='#'><img alt='#MOM 2026 W29 - US Data Center Locations ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /></object></div>               
 
-*[Click here](https://public.tableau.com/views/MOM2026W29-USDataCenterLocations/MOM2026W29-USDataCenterLocations?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize the whole dataviz.*
+[Click here](https://public.tableau.com/views/MOM2026W29-USDataCenterLocations/MOM2026W29-USDataCenterLocations?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize the whole dataviz.
 
 I chose this visualizations because I saw a lot information on it, so I was impressed because the flux between the US map and the bar chart. Additionally, I'm interested on data centers so I think that with the location, status and electricity consumption I could make a dataviz for some environmental message. Also I chose this map because I reviewed its dataset and it contains a lot of variables and observations, then I believed that I can get a great final product.
 
@@ -78,11 +78,13 @@ Testing my map was very useful because I received good feedback from my classmat
 
 During the conversations they remarked their liking for the map and confusing for the bubbles. I showed the original dataviz and they make understand that the advantage of my proposal was the simplicity instead a presentation with a lot of information. Then I think that may be using only the map I can achieve the perceptibility and intuitiveness. Also they said on Forms their engagement with the topic after my dataviz. 
 
-**My own dataviz**
+**My final dataviz**
 
 <div class='tableauPlaceholder' id='viz1789652792275' style='position: relative'><noscript><a href='#'><img alt='Data centers are everywhere ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Datacentersareeverywhere&#47;sketch1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Datacentersareeverywhere&#47;sketch1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;Datacentersareeverywhere&#47;sketch1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /><param name='filter' value='publish=yes' /></object></div>                
 
-*[Click here to interact with the map](https://public.tableau.com/views/Datacentersareeverywhere/sketch1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+[Click here to interact with the map](https://public.tableau.com/views/Datacentersareeverywhere/sketch1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+My only concern with my final product is its the interactivity. It's an advantage because it allow me to deploy more information when you select a state but it could be an disadvantage if the map is only printed because you could miss the access to the status data per state. 
 
 ## Challenges 
 ### Gapminder
