@@ -84,7 +84,7 @@ During the conversations they remarked their liking for the map and confusing fo
 
 [Click here to interact with the map](https://public.tableau.com/views/Datacentersareeverywhere/sketch1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-My only concern with my final product is its the interactivity. It's an advantage because it allow me to deploy more information when you select a state but it could be an disadvantage if the map is only printed because you could miss the access to the status data per state. 
+My only concern with my final product is its the interactivity. It's an advantage because it allow me to deploy more information when you select a state but it could be a disadvantage if the map is only printed because you could miss the access to the status data per state. 
 
 ## Challenges 
 ### Gapminder
