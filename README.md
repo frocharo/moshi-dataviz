@@ -63,12 +63,26 @@ The second draft was focused on the amount of data centers. I looked a represent
 
 <img width="1314" height="895" alt="image" src="https://github.com/user-attachments/assets/595f7403-3e0a-4458-b592-6e36e4cc278f" />
 
+The third draft was mix map for representing the total amount and status of data centers ("the terrible sun") and the amount per state in each US state.
 
+<img width="996" height="735" alt="image" src="https://github.com/user-attachments/assets/acd16ec3-851b-4509-9be1-6364707ffe62" />
+
+I liked so I moved on. 
 
 
 Usefulness, perceptibility, completeness, engagement, intuitiveness, truthfulness, aesthetics, 
 
 *Test*
+
+Testing my map was very useful because I received good feedback from my classmates. I created a simple Google Forms in order to record and summarize their ideas. The results were the following:
+
+<img width="755" height="614" alt="image" src="https://github.com/user-attachments/assets/34be2500-3178-4711-8c5c-21a855d79f41" />
+<img width="756" height="837" alt="image" src="https://github.com/user-attachments/assets/6956d0c3-ccdb-4958-8582-c54440d87bdb" />
+
+During the conversations they remarked their liking for the map and confusing for the bubbles. I showed the original dataviz and they make understand that the advantage of my proposal was the simplicity instead a presentation with a lot of information. Then I think that may be using only the map I can achieve the perceptibility and intuitiveness. Also they said on Forms their engagement with the topic after my dataviz. 
+
+
+
 
 *Prototype*
 
