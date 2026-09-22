@@ -1,3 +1,5 @@
+| Home | Assignments | Challenges | Final Project I| Final Project II | Final Project III |
+
 # Nando's portfolio 
 
 ## About me
