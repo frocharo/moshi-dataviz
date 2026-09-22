@@ -107,7 +107,12 @@ My only concern with my final product is its the interactivity. It's an advantag
 
 ### Wellfare from commuting
 
-## Data
-Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Origen Destino 2017: https://en.www.inegi.org.mx/programas/eod/2017/ 
+### Data
+Federal Highway Administration. (2022). *2022 NextGen National Household Travel Survey Core
+Data*, U.S. Department of Transportation, Washington, DC. Available online:
+http://nhts.ornl.gov.
+
+Instituto Nacional de Estadística y Geografía (INEGI). *Encuesta Origen Destino 2017*. Available online: https://en.www.inegi.org.mx/programas/eod/2017/ 
+
 
 
