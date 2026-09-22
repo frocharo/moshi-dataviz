@@ -15,7 +15,15 @@
 
 **Original dataviz**
 
-<img width="987" height="834" alt="image" src="https://github.com/user-attachments/assets/d2e124a9-7cac-4b7e-b31c-b12e88ec5fef" />             
+          <div class='tableauPlaceholder' id='viz1790117779406' style='position: relative'><noscript><a href='#'><img alt='#MOM 2026 W29 - US Data Center Locations ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;MO&#47;MOM2026W29-USDataCenterLocations&#47;MOM2026W29-USDataCenterLocations&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /></object></div>                
+          <script type='text/javascript'>                    
+          var divElement = document.getElementById('viz1790117779406');                    
+          var vizElement = divElement.getElementsByTagName('object')[0];                    
+          vizElement.style.width='1000px';vizElement.style.height='877px';                    
+          var scriptElement = document.createElement('script');                    
+          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+          </script>
 
 [Click here](https://public.tableau.com/views/MOM2026W29-USDataCenterLocations/MOM2026W29-USDataCenterLocations?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to visualize the whole dataviz.
 
