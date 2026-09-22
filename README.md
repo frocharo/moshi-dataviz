@@ -103,9 +103,11 @@ My only concern with my final product is its the interactivity. It's an advantag
 ### Stockholm
 ### Pittsburgh
 ### Mexico City
-<img width="2612" height="1832" alt="bar chart" src="https://github.com/user-attachments/assets/f47eb61e-60cb-4520-907a-760356b3aa4d" />
+<img width="2612" height="1610" alt="bar chart" src="https://github.com/user-attachments/assets/8706f3f7-5636-4e2e-8c62-ea78771a91ad" />
 
 ### Wellfare from commuting
 
 ## Data
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Origen Destino 2017: [https://en.www.inegi.org.mx/programas/eod/2017/]
+
 
