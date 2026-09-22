@@ -1,4 +1,4 @@
-| [Home](https://frocharo.github.io/moshi-dataviz/) | [Assignments](https://github.com/frocharo/moshi-dataviz/blob/main/assingments.html) | [Challenges](https://github.com/frocharo/moshi-dataviz/blob/main/challenges.html) | Final Project I| Final Project II | Final Project III |
+| [Home](https://frocharo.github.io/moshi-dataviz/) | [Assignments](https://frocharo.github.io/moshi-dataviz/assingments.html) | [Challenges](https://frocharo.github.io/moshi-dataviz/challenges.html) | Final Project I| Final Project II | Final Project III |
 
 # Nando's portfolio 
 
