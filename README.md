@@ -108,6 +108,6 @@ My only concern with my final product is its the interactivity. It's an advantag
 ### Wellfare from commuting
 
 ## Data
-Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Origen Destino 2017: [https://en.www.inegi.org.mx/programas/eod/2017/]
+Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Origen Destino 2017: https://en.www.inegi.org.mx/programas/eod/2017/ 
 
 
