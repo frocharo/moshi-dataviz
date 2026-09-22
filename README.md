@@ -112,7 +112,9 @@ Federal Highway Administration. (2022). *2022 NextGen National Household Travel 
 Data*, U.S. Department of Transportation, Washington, DC. Available online:
 http://nhts.ornl.gov.
 
-Instituto Nacional de Estadística y Geografía (INEGI). *Encuesta Origen Destino 2017*. Available online: https://en.www.inegi.org.mx/programas/eod/2017/ 
+Instituto Nacional de Estadística y Geografía (INEGI). *Encuesta Origen Destino 2017*. Available online: 
+https://en.www.inegi.org.mx/programas/eod/2017/ 
 
-
+Trafik Analysis. (2025). *Resvanor i Sverige 2025*. Available online: 
+https://www.trafa.se/transportmonster/RVU-Sverige/
 
