@@ -14,6 +14,6 @@
 </script>           
 
 
-### Data viz Redesign
+## Data viz Redesign
 
 <div style="min-height:703px" id="datawrapper-vis-D7BJY"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/D7BJY/embed.js" charset="utf-8" data-target="#datawrapper-vis-D7BJY"></script><noscript><img src="https://datawrapper.dwcdn.net/D7BJY/full.png" alt="The people love bar, area and line charts (Table)" /></noscript></div>
