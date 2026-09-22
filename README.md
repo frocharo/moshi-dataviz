@@ -97,6 +97,15 @@ My only concern with my final product is its the interactivity. It's an advantag
 
 <div style="min-height:703px" id="datawrapper-vis-D7BJY"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/D7BJY/embed.js" charset="utf-8" data-target="#datawrapper-vis-D7BJY"></script><noscript><img src="https://datawrapper.dwcdn.net/D7BJY/full.png" alt="The people love bar, area and line charts (Table)" /></noscript></div>
 
+# Final Project
 
+## Commuting in three cities
+### Stockholm
+### Pittsburgh
+### Mexico City
+<img width="2612" height="1832" alt="bar chart" src="https://github.com/user-attachments/assets/f47eb61e-60cb-4520-907a-760356b3aa4d" />
 
+### Wellfare from commuting
+
+## Data
 
