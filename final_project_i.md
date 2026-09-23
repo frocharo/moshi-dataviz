@@ -3,7 +3,12 @@
 # Final Project I
 
 ## Outline
-How the public transportation can improve the wellfare of the people?
+How the public transportation can improve the welfare of the people? What if the people could have more time? But where will we get this additional hours?
+Setup: In Mexico City I spend 2 hours per journey from my home to my university daily. I commute three times: 
+
+In Mexico City the bad public transportation have been normalized. It's slow, insecure and dirty. So the population spend at least 50 minutes per journey.
+
+
 
 
 ### Commuting in three cities
