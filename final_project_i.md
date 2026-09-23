@@ -18,11 +18,11 @@
 ## Initial sketches
 
 ## Data
-|                            Name                         |                     URL                               | Description |.
-|---------------------------------------------------------|-------------------------------------------------------|-------------|.
-| Encuesta Origen Destino 2017                            | https://en.www.inegi.org.mx/programas/eod/2017/       |             |.
-| 2022 NextGen National Household Travel Survey Core Data | http://nhts.ornl.gov.                                 |             |.
-|  Resvanor i Sverige 2025                                | https://www.trafa.se/transportmonster/RVU-Sverige/    |             |.
+| Name | URL | Description |
+|------|-----|-------------|
+| Encuesta Origen Destino 2017 | https://en.www.inegi.org.mx/programas/eod/2017/ | |
+| 2022 NextGen National Household Travel Survey Core Data | http://nhts.ornl.gov | |
+| Resvanor i Sverige 2025 | https://www.trafa.se/transportmonster/RVU-Sverige/ | |
 
 ## Method and medium
 
