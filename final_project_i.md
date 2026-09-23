@@ -20,7 +20,7 @@
 ## Data
 | Name | URL | Description |
 |------|-----|-------------|
-| Encuesta Origen Destino 2017 | https://en.www.inegi.org.mx/programas/eod/2017/ | |
+| Encuesta Origen Destino 2017 | https://en.www.inegi.org.mx/programas/eod/2017/ | Survey about time, means of transportation, purpose, expenditure, departure and destination of the mobility in Mexico City, State of Mexico and Hidalgo. I will analyze only the population based in Mexico City who use public transportation (bus, subway and taxi) |
 | 2022 NextGen National Household Travel Survey Core Data | http://nhts.ornl.gov | |
 | Resvanor i Sverige 2025 | https://www.trafa.se/transportmonster/RVU-Sverige/ | |
 
