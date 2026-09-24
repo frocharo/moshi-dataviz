@@ -57,13 +57,13 @@ I already prepared the data from Mexico City and I did the prior sketch. Now I'm
 ## References
 Federal Highway Administration. (2022). *2022 NextGen National Household Travel Survey Core
 Data*, U.S. Department of Transportation, Washington, DC. Available online:
-http://nhts.ornl.gov.
+[http://nhts.ornl.gov.](http://nhts.ornl.gov.)
 
 Instituto Nacional de Estadística y Geografía (INEGI). *Encuesta Origen Destino 2017*. Available online: 
-https://en.www.inegi.org.mx/programas/eod/2017/ 
+[https://en.www.inegi.org.mx/programas/eod/2017/](https://en.www.inegi.org.mx/programas/eod/2017/ )
 
 Trafik Analysis. (2025). *Resvanor i Sverige 2025*. Available online: 
-https://www.trafa.se/transportmonster/RVU-Sverige/
+[https://www.trafa.se/transportmonster/RVU-Sverige/](https://en.www.inegi.org.mx/programas/eod/2017/ )
 
 ## AI Acknowledgments
 
