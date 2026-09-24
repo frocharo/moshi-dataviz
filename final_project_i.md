@@ -30,15 +30,15 @@ I found that a possible set of policy instruments are: defined bus stops, tracki
 
 ## Data
 
-*Encuesta Origen Destino 2017*, [https://en.www.inegi.org.mx/programas/eod/2017/]
+*Encuesta Origen Destino 2017*, [https://en.www.inegi.org.mx/programas/eod/2017/]([https://en.www.inegi.org.mx/programas/eod/2017/)
 
 It's a survey about time, means of transportation, purpose, expenditure, departure and destination of the mobility in Mexico City, State of Mexico and Hidalgo. I will analyze only the population based in Mexico City who use public transportation (bus, subway and taxi).
 
-*2022 NextGen National Household Travel Survey Core Data*, http://nhts.ornl.gov 
+*2022 NextGen National Household Travel Survey Core Data*, [http://nhts.ornl.gov](http://nhts.ornl.gov)
 
 It's nationally weighted survey dataset that provides detailed information on who travels, how they travel, why they travel, and how much they travel in the United States. From this survey I will extract the data for Pittsburgh. 
 
-*Resvanor i Sverige 2025*, https://www.trafa.se/transportmonster/RVU-Sverige/ 
+*Resvanor i Sverige 2025*, [https://www.trafa.se/transportmonster/RVU-Sverige/](https://www.trafa.se/transportmonster/RVU-Sverige/)
 
 It's the Sweden's official national travel survey, managed by Trafikanalys. It measures how people travel in their daily lives, including when trips are made, which transport modes are used, and the purpose of each trip. From this survey I will extract the data for Stockholm.
 
