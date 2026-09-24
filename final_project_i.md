@@ -58,3 +58,5 @@ Trafik Analysis. (2025). *Resvanor i Sverige 2025*. Available online:
 https://www.trafa.se/transportmonster/RVU-Sverige/
 
 ## AI Acknowledgments
+
+I recognize that I'm using AI only for getting orientation to use Tableu and R. 
