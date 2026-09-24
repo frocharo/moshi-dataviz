@@ -20,7 +20,7 @@ I found that a possible set of policy instruments are: defined bus stops, tracki
 #### Mexico City
 <img width="2932" height="1610" alt="bar chart" src="https://github.com/user-attachments/assets/94682a73-aedb-4439-b5cf-80f1c586a099" />
 
-### Wellfare from commuting
+### Welfare from commuting
 
 
 ## Initial sketches
@@ -33,6 +33,8 @@ I found that a possible set of policy instruments are: defined bus stops, tracki
 | Resvanor i Sverige 2025 | https://www.trafa.se/transportmonster/RVU-Sverige/ | |
 
 ## Method and medium
+I already prepared the data from Mexico City and I did the prior sketch. Now I'm preparing the data about Pittsburgh and Stockholm. The last one is the most difficult because there is not dataset, only reports. Fortunately, the available information could be enough for my comparison. 
+
 
 ## References
 Federal Highway Administration. (2022). *2022 NextGen National Household Travel Survey Core
