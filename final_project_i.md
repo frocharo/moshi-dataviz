@@ -9,8 +9,9 @@ Setup: In Mexico City I spend 2 hours per journey from my home to my university 
 
 Conflict: In Mexico City the bad public transportation have been normalized. It's slow, insecure and dirty. So the population spend at least 50 minutes per journey.
 This does not look too bad but in comparison with other cities, like Stockholm or Pittsburg, where the average time is not longer than 30 minutes and, if we add the insecurity, commuting in Mexico City is inneficient. 
-Resolution: 
 
+Resolution: When I went to Stockholm and Pittsburgh this year, I got more time for different activities: workout, volunteering in religious organizations and cultural activities with friends.
+I found that a possible set of policy instruments are: defined bus stops, tracking on app and ways free to obstacles. 
 
 
 ### Commuting in three cities
