@@ -30,7 +30,7 @@ I found that a possible set of policy instruments are: defined bus stops, tracki
 
 ## Data
 
-*Encuesta Origen Destino 2017*, https://en.www.inegi.org.mx/programas/eod/2017/
+*Encuesta Origen Destino 2017*, (https://en.www.inegi.org.mx/programas/eod/2017/)
 
 It's a survey about time, means of transportation, purpose, expenditure, departure and destination of the mobility in Mexico City, State of Mexico and Hidalgo. I will analyze only the population based in Mexico City who use public transportation (bus, subway and taxi).
 
