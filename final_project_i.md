@@ -36,14 +36,14 @@ It's a survey about time, means of transportation, purpose, expenditure, departu
 
 *2022 NextGen National Household Travel Survey Core Data*, http://nhts.ornl.gov 
 
-It's nationally weighted survey dataset that provides detailed information on who travels, how they travel, why they travel, and how much they travel in the United States.
+It's nationally weighted survey dataset that provides detailed information on who travels, how they travel, why they travel, and how much they travel in the United States. From this survey I will extract the data for Pittsburgh. 
 
 *Resvanor i Sverige 2025*, https://www.trafa.se/transportmonster/RVU-Sverige/ 
 
-It's the Sweden's official national travel survey, managed by Trafikanalys. It measures how people travel in their daily lives, including when trips are made, which transport modes are used, and the purpose of each trip.
+It's the Sweden's official national travel survey, managed by Trafikanalys. It measures how people travel in their daily lives, including when trips are made, which transport modes are used, and the purpose of each trip. From this survey I will extract the data for Stockholm.
 
 ## Method and medium
-I already prepared the data from Mexico City and I did the prior sketch. Now I'm preparing the data about Pittsburgh and Stockholm. The last one is the most difficult because there is not dataset, only reports. Fortunately, the available information could be enough for my comparison. 
+I already prepared the data from Mexico City and I did the prior sketch. Now I'm preparing the data about Pittsburgh and Stockholm. The last one is the most difficult because there is not dataset, only reports. Fortunately, the available information could be enough for my comparison. I will use R for cleaning, joining and summarizing data, but I'm using Tableu for visualizations. May be I will explore Shorthand for trying to get more dynamic presentation. 
 
 
 ## References
