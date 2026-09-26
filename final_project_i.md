@@ -3,7 +3,7 @@
 # Final Project I
 
 ## Outline
-How the public transportation can improve the welfare of the people? What if the people could have more time? But where will we get this additional hours?
+How the public transportation can improve the welfare of the people? What if the people could have more time? But where will we get these additional hours?
 
 Setup: In Mexico City I spend 2 hours per journey from my home to my university daily, so like 40 days per year missed in bus and subway.
 
