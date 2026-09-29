@@ -20,9 +20,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Discover the relavance of the topic      |                  |
+| Find if there is recognition about the importance of the public transportation in the quality of life    |                  |
+| Know what      |                  |
 
 
 Text here!
