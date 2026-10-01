@@ -18,23 +18,18 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Discover the relevance of the topic      | Are you interested in get more information about the inequalities in the public transportation of your city?               |
-| Find if there is a recognition about the importance of the public transportation in the quality of life    |  How do you think that the public transportation can help the people to have a best performance in their activities?                |
-| Know if my story triggers curiosity for the topic     | After see my story, would you like to know more about the mobility in your city?              |
-
-
+| Discover what think the people about the public transportation as a mean for improving the quality of life    | How can reliable and efficient public transportation help people achieve better outcomes in their daily activities?              |
+| Find how the people could use their free time if they would have a better public transportation  |  If you could save one hour per day by having better transportation, how would you use that time?                |
+| Know if my story triggers curiosity for the topic     | After seeing this story, what aspects of mobility in your city would you like to learn more about?           |
 
 
 ### Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| How can an efficient public transportation help people achieve better outcomes in their daily activities?| She pointed out the security and connectivity, taking some examples from Mexico City and State of Mexico.            |             |             |
+| If you could save one hour per day by having better transportation, how would you use that time?   | Sleep and read more books.  |             |             |
+| After seeing this story, what aspects of mobility in your city would you like to learn more about? | Because she moved to Pittsburgh recently, she didn't know the information about Pittsburgh so now she is more interested                               |             |             |
 
 
 ## Identified changes for Part III
@@ -52,7 +47,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+
 
 ## References
 
