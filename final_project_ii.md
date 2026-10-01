@@ -14,18 +14,15 @@
 Text here!
 
 ### Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Discover the relavance of the topic      |                  |
-| Find if there is recognition about the importance of the public transportation in the quality of life    |                  |
-| Know what      |                  |
+| Discover the relevance of the topic      |                  |
+| Find if there is a recognition about the importance of the public transportation in the quality of life    |                  |
+| Know if my story triggers curiosity for the topic     |                  |
 
 
-Text here!
+
 
 ### Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -57,7 +54,7 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI only for advising in using Tableau or Shorthand.
