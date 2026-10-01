@@ -9,17 +9,18 @@
 ## User research 
 
 ### Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My audience is every user of the public transportation but mainly those living in Mexico City. Also other audience are decision makers. 
+The purpose of my story is to convince for investing in public transportation in order to improve the quality of life of the people.
+
 
 ### Interview script
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Discover the relevance of the topic      |                  |
-| Find if there is a recognition about the importance of the public transportation in the quality of life    |                  |
-| Know if my story triggers curiosity for the topic     |                  |
+| Discover the relevance of the topic      | Are you interested in get more information about the inequalities in the public transportation of your city?               |
+| Find if there is a recognition about the importance of the public transportation in the quality of life    |  How do you think that the public transportation can help the people to have a best performance in their activities?                |
+| Know if my story triggers curiosity for the topic     | After see my story, would you like to know more about the mobility in your city?              |
 
 
 
