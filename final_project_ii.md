@@ -27,15 +27,13 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| How can an efficient public transportation help people achieve better outcomes in their daily activities?| She pointed out the security and connectivity, taking some examples from Mexico City and State of Mexico.            |             |             |
-| If you could save one hour per day by having better transportation, how would you use that time?   | Sleep and read more books.  |             |             |
-| After seeing this story, what aspects of mobility in your city would you like to learn more about? | Because she moved to Pittsburgh recently, she didn't know the information about Pittsburgh so now she is more interested                               |             |             |
+| How can an efficient public transportation help people achieve better outcomes in their daily activities?| She pointed out the security and connectivity, taking some examples from Mexico City and State of Mexico.            | He is also from Latin America so he thinks that the public transportation could liberate people from over commuting  | He said that mainly for arriving to work earlier  |
+| If you could save one hour per day by having better transportation, how would you use that time?   | Sleep and read more books.  | Study more time  | He didn't know but he is sure that a better public transportation in Pittsburgh could be more buses            |
+| After seeing this story, what aspects of mobility in your city would you like to learn more about? | Because she moved to Pittsburgh recently, she didn't know the information about Pittsburgh so now she is more interested   | He would like to know more about the statistics about mobility in Lima  | He would like to have more information about future mobility projects            |
 
 
 ## Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
