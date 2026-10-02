@@ -37,9 +37,9 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| I need a call for action | Describe what, if any changes you anticipate making to address the observation. | 
-| I need to focus the story in time lost     |                                                                                 |
-| I need to have one moment more for my narrative arc                                        |                                                                                 |
+| I need a call for action | Describe what, if any changes you anticipate making to address the observation. | Decide if the action will be invest in infrastructure for public transportation or decentralize Mexico City through urban and economical policies. 
+| I need to contextualize why this amount of time in Mexico City    | I will more charts related to the directions of mobility and may be for the investment in public transportation                                                                            |
+| I need to have one moment more for my narrative arc   | I will suggest a couple policy instruments to improve the speed and certainty in commuting                                                                                |
 
 The feedback from today was not an interview but it was very useful because I found some issues with the structure of my story. I had a different draft when I did the first three interviews with different charts. This new version is better in my opinion. Despite my Shorthand is not complete I think is more coherent now.
 
