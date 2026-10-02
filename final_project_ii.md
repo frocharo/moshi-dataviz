@@ -37,7 +37,7 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| I need a call for action | Describe what, if any changes you anticipate making to address the observation. | Decide if the action will be invest in infrastructure for public transportation or decentralize Mexico City through urban and economical policies. |
+| I need a call for action | Describe what, if any changes you anticipate making to address the observation. | Decide if the action will be invest in infrastructure for public transportation or decentralize Mexico City through urban and economical policies |
 | I need to contextualize why this amount of time in Mexico City  | I will add more charts related to the directions of mobility and may be for the investment in public transportation    |
 | I need to have one moment more for my narrative arc   | I will suggest a couple policy instruments to improve the speed and certainty in commuting  |
 
