@@ -19,9 +19,9 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Discover what think the people about the public transportation as a mean for improving the quality of life    | How can reliable and efficient public transportation help people achieve better outcomes in their daily activities?              |
-| Find how the people could use their free time if they would have a better public transportation  |  If you could save one hour per day by having better transportation, how would you use that time?                |
-| Know if my story triggers curiosity for the topic     | After seeing this story, what aspects of mobility in your city would you like to learn more about?           |
+| Discover what think the people about the public transportation as a mean for improving the quality of life   | How can reliable and efficient public transportation help people achieve better outcomes in their daily activities? |
+| Find how the people could use their free time if they would have a better public transportation  |  If you could save one hour per day by having better transportation, how would you use that time?   |
+| Know if my story triggers curiosity for the topic  | After seeing this story, what aspects of mobility in your city would you like to learn more about?   |
 
 
 ### Interview findings
@@ -39,7 +39,7 @@ The purpose of my story is to convince for investing in public transportation in
 |------------------------------------------|---------------------------------------------------------------------------------|
 | I need a call for action | Describe what, if any changes you anticipate making to address the observation. | Decide if the action will be invest in infrastructure for public transportation or decentralize Mexico City through urban and economical policies. |
 | I need to contextualize why this amount of time in Mexico City  | I will add more charts related to the directions of mobility and may be for the investment in public transportation    |
-| I need to have one moment more for my narrative arc   | I will suggest a couple policy instruments to improve the speed and certainty in commuting                                   |
+| I need to have one moment more for my narrative arc   | I will suggest a couple policy instruments to improve the speed and certainty in commuting  |
 
 The feedback from today was not an interview but it was very useful because I found some issues with the structure of my story. I had a different draft when I did the first three interviews with different charts. This new version is better in my opinion. Despite my Shorthand is not complete I think is more coherent now.
 
