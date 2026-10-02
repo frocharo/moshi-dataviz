@@ -5,7 +5,6 @@
 ## Wireframes / storyboards
 <script src="https://carnegiemellon.shorthandstories.com/one-person-three-cities/embed.js"></script>
 
-
 ## User research 
 
 ### Target audience
@@ -33,17 +32,14 @@ The purpose of my story is to convince for investing in public transportation in
 
 
 ## Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| I need a call for action | Describe what, if any changes you anticipate making to address the observation. |
+| I need to focus the story in time lost     |                                                                                 |
+| I need to have one moment more for my narrative arc                                        |                                                                                 |
 
-> ...include any final thoughts you have here. 
+The feedback from today was not an interview but it was very useful because I found some issues with the structure of my story. I had a different draft when I did the first three interviews with different charts. This new version is better in my opinion. Despite my Shorthand is not complete I think is more coherent now.
 
 
 
