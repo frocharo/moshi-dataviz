@@ -3,6 +3,8 @@
 # Final Project II
 
 ## Wireframes / storyboards
+You can see the full preview [here](https://carnegiemellon.shorthandstories.com/one-person-three-cities/index.html).
+
 <script src="https://carnegiemellon.shorthandstories.com/one-person-three-cities/embed.js"></script>
 
 ## User research 
@@ -35,7 +37,7 @@ The purpose of my story is to convince for investing in public transportation in
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| I need a call for action | Describe what, if any changes you anticipate making to address the observation. |
+| I need a call for action | Describe what, if any changes you anticipate making to address the observation. | 
 | I need to focus the story in time lost     |                                                                                 |
 | I need to have one moment more for my narrative arc                                        |                                                                                 |
 
