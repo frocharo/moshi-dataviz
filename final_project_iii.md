@@ -1,9 +1,10 @@
 | [Home](https://frocharo.github.io/moshi-dataviz/) | [Assignments](https://frocharo.github.io/moshi-dataviz/assingments.html) | [Challenges](https://frocharo.github.io/moshi-dataviz/challenges.html) | [In class](https://frocharo.github.io/moshi-dataviz/inclass.html) | [Final Project I](https://frocharo.github.io/moshi-dataviz/final_project_i.html)| [Final Project II](https://frocharo.github.io/moshi-dataviz/final_project_ii.html) | [Final Project III](https://frocharo.github.io/moshi-dataviz/final_project_iii.html) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Full view](https://carnegiemellon.shorthandstories.com/one-person-three-cities/index.html)
 
-Text here!
+<script src="https://carnegiemellon.shorthandstories.com/one-person-three-cities/embed.js"></script>
+
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
