@@ -1,4 +1,4 @@
-| [Home](https://frocharo.github.io/moshi-dataviz/) | [Assignments](https://frocharo.github.io/moshi-dataviz/assingments.html) | [Challenges](https://frocharo.github.io/moshi-dataviz/challenges.html) | [In class](https://frocharo.github.io/moshi-dataviz/inclass.html) | [Final Project I](https://frocharo.github.io/moshi-dataviz/final_project_i.html)| [Final Project II](https://frocharo.github.io/moshi-dataviz/final_project_ii.html) | [Final Project III](https://github.com/frocharo/moshi-dataviz/blob/main/final_project_iii.html) |
+| [Home](https://frocharo.github.io/moshi-dataviz/) | [Assignments](https://frocharo.github.io/moshi-dataviz/assingments.html) | [Challenges](https://frocharo.github.io/moshi-dataviz/challenges.html) | [In class](https://frocharo.github.io/moshi-dataviz/inclass.html) | [Final Project I](https://frocharo.github.io/moshi-dataviz/final_project_i.html)| [Final Project II](https://frocharo.github.io/moshi-dataviz/final_project_ii.html) | [Final Project III](https://frocharo.github.io/moshi-dataviz/final_project_iii.html) |
 
 # Final Project I
 
