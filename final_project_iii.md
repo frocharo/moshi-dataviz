@@ -13,7 +13,11 @@ Finally I added some possible policy instruments to solve the problem: fixed bus
 When I focused the story on Mexico City, I got certainty about my target audience: decision makers of Mexico City. Because I show a public problem and I asked investment for public transportation, the audience was clear.
 
 ## Final design decisions
--
+
+- Three spider charts rather than only one.
+- Focus on time.
+- Utilization of Canva for some pictures.
+- A waffle chart added.
 
 ## References
 
