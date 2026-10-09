@@ -5,14 +5,12 @@
 
 <script src="https://carnegiemellon.shorthandstories.com/one-person-three-cities/embed.js"></script>
 
-
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+I separated my spider chart in three charts in order to show better the contrasts between the cities. Also I focused my story on time rather than add other elements like certainty, comfort and security. In addition, I focused the data on Mexico City. I used only Stockholm and Pittsburgh data about average time per journey.
+Finally I added some possible policy instruments to solve the problem: fixed bus stops, app tracker and decentralize Mexico City. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+When I focused the story on Mexico City, I got certainty about my target audience: decision makers of Mexico City. Because I show a public problem and I asked investment for public transportation, the audience was clear.
 
 Text here!
 
